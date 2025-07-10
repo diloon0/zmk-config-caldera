@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-name: Build ZMK firmware
->>>>>>> 4a75b22baa8649451df4835f0199bcc91eeff356
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
